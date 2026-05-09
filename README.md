@@ -1,5 +1,4 @@
-\cat > README.md << 'EOF'
-# data-science-portfo# data-science-portfolio
+# data-science-portfolio
 
 **Data Scientist Path from Scratch**
 
