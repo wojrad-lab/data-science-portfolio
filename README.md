@@ -1,5 +1,5 @@
-cat > README.md << 'EOF'
-# data-science-portfolio
+\cat > README.md << 'EOF'
+# data-science-portfo# data-science-portfolio
 
 **Data Scientist Path from Scratch**
 
@@ -21,13 +21,15 @@ My personal learning journey, notes, and portfolio projects.
 
 ## Project Structure
 
-- `masterplan/` – masterplan-v4.1.md and archive
-- `notes/` – Obsidian vault (daily logs, decisions, course notes)
-- `projects/` – completed portfolio projects
-- `resources/` – links, cheat sheets, materials
 - `LEARNING-LOG.md` – detailed learning journal + progress badges
+- `notes/` – Obsidian vault
+  - `01-python-bootcamp/` – course notes and materials
+  - `decisions/` – important decisions and rationale
+  - `weekly-reviews/` – weekly reflections
+  - `resources/` – links, cheat sheets, additional materials
+- `projects/` – completed portfolio projects
+- `resources/` – (root level) general resources
 
 ---
 
 **Status**: Setup complete + starting Python Bootcamp
-EOF
