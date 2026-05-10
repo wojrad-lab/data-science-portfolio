@@ -6,6 +6,10 @@
 ## Current Course
 **Complete Python Bootcamp** by Jose Portilla – Udemy
 
+## Parallel Learning
+**Python Crash Course, 3rd Edition** by Eric Matthes – Ordered (to be started soon)  
+**Linear Algebra Done Right, 4th Edition** by Sheldon Axler – In Progress
+
 ## Course Progress
 
 ![Module 1: Python Setup](https://img.shields.io/badge/Module%201%3A%20Python%20Setup-In%20Progress-yellow)

@@ -16,7 +16,8 @@ My personal learning journey, notes, and portfolio projects.
 ## Current Progress
 
 **Started:** May 9, 2026  
-**Active course:** [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) (Udemy)
+**Active course:** [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) (Udemy)  
+**Parallel:** Python Crash Course (ordered) + Linear Algebra Done Right (in progress)
 
 ## Project Structure
 
