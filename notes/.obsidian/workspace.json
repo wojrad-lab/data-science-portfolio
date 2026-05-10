@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7486bfca4ae41c8d",
+        "id": "3e96cbc8736455c1",
         "type": "tabs",
         "children": [
           {
-            "id": "fa92680a9606a92e",
+            "id": "10e89ed617e7f92c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "resources/0003-linux-useful-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0003-linux-useful-commands"
             }
           }
         ]
@@ -176,8 +180,11 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "fa92680a9606a92e",
+  "active": "10e89ed617e7f92c",
   "lastOpenFiles": [
+    "resources/0002-universal-jupyter-notebook-template.md",
+    "resources/0003-linux-useful-commands.md",
+    "resources/0001-universal-python-script-template.md",
     "01-python-bootcamp/2026-05-09-module-1.md"
   ]
 }
