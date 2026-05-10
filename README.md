@@ -21,14 +21,15 @@ My personal learning journey, notes, and portfolio projects.
 ## Project Structure
 
 - `LEARNING-LOG.md` – detailed learning journal + progress badges
+- `exercises/` – small scripts and exercises from courses
+  - `001-python-bootcamp/` – exercises from Complete Python Bootcamp
 - `notes/` – Obsidian vault
-  - `01-python-bootcamp/` – course notes and materials
+  - `001-python-bootcamp/` – course notes and materials
   - `decisions/` – important decisions and rationale
   - `weekly-reviews/` – weekly reflections
-  - `resources/` – links, cheat sheets, additional materials
-- `projects/` – completed portfolio projects
-- `resources/` – (root level) general resources
+  - `resources/` – links, cheat sheets, templates
+- `projects/` – completed portfolio projects (larger projects later)
 
 ---
 
-**Status**: Setup complete + starting Python Bootcamp
+**Status**: Setup complete + working on Module 1 of Python Bootcamp

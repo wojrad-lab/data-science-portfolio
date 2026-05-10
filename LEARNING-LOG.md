@@ -1,27 +1,28 @@
-# LEARNING LOG – Radosław Wojrad
+# LEARNING LOG – wojrad-lab
 
-**From Zero to Junior Data Scientist**  
+**Data Scientist Path from Scratch**  
 **Start date:** May 9, 2026
 
 ## Current Course
-**Complete Python Bootcamp** – Udemy
+**Complete Python Bootcamp** by Jose Portilla – Udemy
 
 ## Course Progress
 
-![Module 1: Python Setup](https://img.shields.io/badge/Module%201%3A%20Setup-Completed-brightgreen)  
-![Module 2: Variables & Data Types](https://img.shields.io/badge/Module%202%3A%20Variables%20%26%20Data%20Types-In%20Progress-yellow)  
-![Module 3: Functions](https://img.shields.io/badge/Module%203%3A%20Functions-Not%20Started-lightgrey)  
-![Module 4: Lists & Tuples](https://img.shields.io/badge/Module%204%3A%20Lists%20%26%20Tuples-Not%20Started-lightgrey)  
-![Module 5: Dictionaries](https://img.shields.io/badge/Module%205%3A%20Dictionaries-Not%20Started-lightgrey)
+![Module 1: Python Setup](https://img.shields.io/badge/Module%201%3A%20Python%20Setup-In%20Progress-yellow)
 
 *(Badges will be updated after each module)*
 
 ## Weekly / Module Journal
 
-### 2026-05-09 – Module 1: Python Setup & Variables
-- **Completed sections**: Installation, Jupyter Notebook, print(), variables, data types
-- **Key takeaways**: ...
-- **Self-practice**: ...
-- **Challenges**: ...
+### 2026-05-10 – Module 1: Python Setup
+- **Completed sections**: Installation, Jupyter Notebook basics, first scripts
+- **Key takeaways**: 
+  - How to professionally start every Python script (shebang, encoding, docstring, clear sections)
+  - Importance of `if __name__ == "__main__":`
+  - Clean project structure (`exercises/`, `notes/`, `resources/`)
+- **Self-practice**: 
+  - Created universal Python script template (0001-universal-python-script-template.md)
+  - Created universal Jupyter Notebook template (0002-universal-jupyter-notebook-template.md)
+  - Reorganized repository structure (exercises/ + three-digit numbering)
 
-*(Add new entries here every time you finish a module or week)*
+*(Add new entries here every time you finish a section or week)*
