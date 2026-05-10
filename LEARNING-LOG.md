@@ -8,7 +8,7 @@
 
 ## Parallel Learning
 **Python Crash Course, 3rd Edition** by Eric Matthes – Ordered (to be started soon)  
-**Linear Algebra Done Right, 4th Edition** by Sheldon Axler – In Progress
+**No Bullshit Guide to Linear Algebra, 2nd Edition** by Ivan Savov – In Progress (PDF)
 
 ## Course Progress
 
