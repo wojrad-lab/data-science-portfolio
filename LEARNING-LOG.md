@@ -30,7 +30,7 @@
   - Created universal Jupyter Notebook template (0002-universal-jupyter-notebook-template.md)
   - Reorganized repository structure (exercises/ + three-digit numbering)
 
-  ### 2026-05-17 - Basics
+### 2026-05-17 - Basics
 - **Key takeaways**: 
   - Practical difference between running code in Jupyter vs standalone .py scripts
   - Importance of consistent file naming and folder structure from day one
