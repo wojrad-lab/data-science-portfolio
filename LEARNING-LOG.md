@@ -12,8 +12,9 @@
 
 ## Course Progress
 
-![Module 1: Course Overvieew](https://img.shields.io/badge/Module%201%3A%20Course%20Overview-In%20Progress-green)
-![Module 2: Python Setup](https://img.shields.io/badge/Module%201%3A%20Python%20Setup-In%20Progress-yellow)
+![Module 1: Course Overvieew](https://img.shields.io/badge/Module%201%3A%20Course%20Overview-Completed-green)
+
+![Module 2: Python Setup](https://img.shields.io/badge/Module%202%3A%20Python%20Setup-In%20Progress-yellow)
 
 *(Badges will be updated after each module)*
 
