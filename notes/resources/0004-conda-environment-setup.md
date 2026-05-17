@@ -136,20 +136,5 @@ print("Environment works correctly!")
 - Full version control – nothing breaks the system
 - Easy switching between projects (each project = separate environment)
 - Ready for learning Data Science from scratch
-
----
-
-## 6. What's next? (next steps in the project)
-
-1. Finish Module 2 of Jose Portilla's course (Python Setup)
-2. Create first scripts/notebooks in `exercises/001-python-bootcamp/`
-3. Update `LEARNING-LOG.md`
-4. Move to **Week 1–2: Linear Algebra** (math-ds-path)
-
----
-
-**Questions?**  
-If anything is unclear – ask immediately. Zero gaps.
-
 *Note prepared by Grok – mentor of your Data Science project*  
 *wojrad-lab / May 17, 2026*
