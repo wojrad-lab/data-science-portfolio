@@ -33,4 +33,4 @@ My personal learning journey, notes, and portfolio projects.
 
 ---
 
-**Status**: Setup complete + working on Module 1 of Python Bootcamp
+**Status**: Setup complete + working on Module 2 of Python Bootcamp
