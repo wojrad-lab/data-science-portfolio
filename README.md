@@ -1,36 +1,36 @@
 # data-science-portfolio
 
-**Data Scientist Path from Scratch**
+**Professional Data Science Portfolio** – Radosław
 
-My personal learning journey, notes, and portfolio projects.
+Tylko ukończone, dobrze udokumentowane projekty gotowe do pokazania rekruterom.
 
-## Environment
+## 📊 Projekty
 
-- **OS**: Garuda Linux (Arch-based)
-- **Shell**: fish
-- **Git**: configured via SSH (ed25519 key)
-- **Python**: Anaconda (conda environments for project isolation)
-- **Tools**: VS Code, Obsidian, Jupyter Notebook
-- **GitHub**: [wojrad-lab/data-science-portfolio](https://github.com/wojrad-lab/data-science-portfolio)
+| Lp. | Projekt | Opis | Główne technologie | Status |
+|-----|---------|------|------------------------|--------|
+| 01  | [Titanic Survival Prediction](projects/01-titanic-survival-prediction/) | Przewidywanie przeżycia pasażerów Titanica | Python, pandas, scikit-learn, XGBoost | ✅ Ukończony |
+| 02  | [Customer Churn Analysis](projects/02-customer-churn/) | Analiza i przewidywanie odejść klientów | Python, SQL, SHAP, LightGBM | 🔄 W trakcie |
 
-## Current Progress
+## 🛠️ Tech Stack
 
-**Started:** May 9, 2026  
-**Active course:** [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) (Udemy)  
-**Parallel:** Python Crash Course by Eric Matthes (ordered) + Linear Algebra Done Right by Sheldon Axler (in progress)
+- **Język**: Python 3.13
+- **Główne biblioteki**: pandas, NumPy, scikit-learn, XGBoost, LightGBM, SHAP
+- **Narzędzia**: Jupyter, VS Code, Git, SQL
+- **Inne**: Docker, MLflow (planowane)
 
-## Project Structure
+## 🎯 O mnie
 
-- `LEARNING-LOG.md` – detailed learning journal + progress badges
-- `exercises/` – small scripts and exercises from courses
-  - `001-python-bootcamp/` – exercises from Complete Python Bootcamp
-- `notes/` – Obsidian vault
-  - `001-python-bootcamp/` – course notes and materials
-  - `decisions/` – important decisions and rationale
-  - `weekly-reviews/` – weekly reflections
-  - `resources/` – links, cheat sheets, templates
-- `projects/` – completed portfolio projects (larger projects later)
+Początkujący Data Scientist budujący solidne fundamenty w Pythonie, statystyce i uczeniu maszynowym.
+
+- [LinkedIn](https://www.linkedin.com/in/radoslaw-wojciechowski/)
+- [GitHub](https://github.com/wojrad-lab)
+- [Kaggle](https://www.kaggle.com/wojrad)
+
+## 📅 Timeline
+
+- **Maj 2026** – Start intensywnego programu rozwoju Data Scientist
+- **Czerwiec 2026** – Ukończenie Python Bootcamp + pierwsze projekty portfolio
 
 ---
 
-**Status**: Setup complete + working on Module 2 of Python Bootcamp
+*Ten repozytorium zawiera wyłącznie ukończone projekty. Notatki i dzienniki nauki znajdują się w prywatnym repo [data-science-learning](https://github.com/wojrad-lab/data-science-learning).*
